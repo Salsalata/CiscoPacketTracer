@@ -10,10 +10,10 @@ Design a network in  Cisco Packet Tracer to connects ACCOUNTS and DELIVERY depar
 5) Test communication between devices in both ACCOUNTS and DELIVERY departments.
 
 Technologies Implemented
-Creating a Simple Network using a Router and Access Layer Switch.
-Connecting Networking devices with Correct cabling.
-Connecting two Networks using a Router.
-Subnetting and IP Addressing.
-Assigning IP Addresses to Router's interfaces.
-Static IP Address allocation to Host Devices.
-Test and Verifying Network Communication.
+1) Creating a Simple Network using a Router and Access Layer Switch.
+2) Connecting Networking devices with Correct cabling.
+3) Connecting two Networks using a Router.
+4) Subnetting and IP Addressing.
+5) Assigning IP Addresses to Router's interfaces.
+6) Static IP Address allocation to Host Devices.
+7) Test and Verifying Network Communication.
